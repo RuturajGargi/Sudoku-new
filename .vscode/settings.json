@@ -1,0 +1,7 @@
+{
+    "editor.codeActionsOnSave":{
+        "source.fixAll":true
+    },
+    "editor.fomatOnSave":true,
+    "javascript.format.enable":false
+}
